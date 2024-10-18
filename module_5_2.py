@@ -1,5 +1,5 @@
 class House():
-    '''Класс Дом'''
+    '''Класс Дом '''
 
     def __init__(self, name, number_of_floors):
         self.name = name
